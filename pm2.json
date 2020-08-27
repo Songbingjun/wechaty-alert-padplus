@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "name": "koa",
+      "cwd": "./",
+      "script": "./bin/www",
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
+      "error_file": "./koa/log/app-err.log",
+      "out_file": "./koa/log/app-out.log",
+      "pid_file": "./koa/log/node.pid",
+      "instances": 1,
+      "min_uptime": "60s",
+      "max_restarts": 30,
+      "watch": false
+    }
+  ]
+}

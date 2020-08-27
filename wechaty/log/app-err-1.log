@@ -1,0 +1,1310 @@
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+Error: Cannot find module './index'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+E:\workspace\wechaty\wechaty\index.js:2
+import { Wechaty } from 'wechaty';
+       ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at loader (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (E:\workspace\wechaty\node_modules\babel-register\lib\node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at Module.Hook._require.Module.require (C:\Users\Administrator\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (E:\workspace\wechaty\wechaty\app.js:4:1)
+Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 10:31 +08:00: Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 10:31 +08:00: Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 10:31 +08:00: Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 10:31 +08:00: Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 10:32 +08:00: Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 10:32 +08:00: Error: bind EADDRINUSE null:3004
+    at listenOnMasterHandle (net.js:1346:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at process.EventEmitter.emit (domain.js:448:20)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2020-08-26 13:07 +08:00: 13:07:00 WARN Puppet constructor() watchdog.on(reset) reason: {"data":"56f88c64-0d1e-428c-b0b5-f1b58e2e5484","timeout":60000}
+Error: 14 UNAVAILABLE: TCP Read failed
+    at Object.exports.createStatusError (E:\workspace\wechaty\node_modules\grpc\src\common.js:91:15)
+    at ClientReadableStream._emitStatusIfDone (E:\workspace\wechaty\node_modules\grpc\src\client.js:233:26)
+    at ClientReadableStream._receiveStatus (E:\workspace\wechaty\node_modules\grpc\src\client.js:211:8)
+    at Object.onReceiveStatus (E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:1277:15)
+    at InterceptingListener._callNext (E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:568:42)
+    at InterceptingListener.onReceiveStatus (E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:618:8)
+    at E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:1033:24
+2020-08-26 13:07 +08:00: Error: 14 UNAVAILABLE: TCP Read failed
+    at Object.exports.createStatusError (E:\workspace\wechaty\node_modules\grpc\src\common.js:91:15)
+    at ClientReadableStream._emitStatusIfDone (E:\workspace\wechaty\node_modules\grpc\src\client.js:233:26)
+    at ClientReadableStream._receiveStatus (E:\workspace\wechaty\node_modules\grpc\src\client.js:211:8)
+    at Object.onReceiveStatus (E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:1277:15)
+    at InterceptingListener._callNext (E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:568:42)
+    at InterceptingListener.onReceiveStatus (E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:618:8)
+    at E:\workspace\wechaty\node_modules\grpc\src\client_interceptors.js:1033:24

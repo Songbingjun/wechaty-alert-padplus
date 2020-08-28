@@ -8,7 +8,7 @@
 
 
 # wechaty-alert-padplus
-## 微信机器人 - 实时发送预警信息 ##
+## 微信机器人 - 实时转发预警信息 ##
 ### 使用须知
 1、 本项目基于微信IPAD协议，避免了网页版微信登陆不成功的情况  
 2、 **本项目必须要申请token**，具体操作流程请参考[教程](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty#1Token-%E7%9A%84%E5%8A%9F%E8%83%BD%E5%92%8C%E7%94%B3%E8%AF%B7)  

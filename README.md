@@ -6,7 +6,6 @@
 [![node version](https://img.shields.io/badge/wechaty-%3E%3D0.38.4-blue.svg)](https://github.com/Chatie/wechaty)
 [![node version](https://img.shields.io/badge/wechaty--puppet--padplus-%3E%3D0.6.2-green)](https://github.com/wechaty/wechaty-puppet-padplus)
 
-
 #wechaty-alert-padplus
 ##微信机器人 - 实时转发预警信息##
 ###使用须知

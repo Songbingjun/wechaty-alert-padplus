@@ -57,12 +57,12 @@ pm2 logs koa  //后台查看运行程序  首次会显示扫码日志
 #### 5、	日志及错误记录在wechaty/koa/log目录中
 #### 6、	如果不是后台运行的话，请设置计算机进入休眠状态为 从不。建议最好开启后台运行，并且修改状态。  
 具体修改流程(win10)  Win+R –> control –> 搜索:电源  -> 电源选项 –> 选择关闭显示器的时间 –> 使计算机进入休眠状态 –> 从不
-#### 7、	pm2进程守护工具常用命令   
-1）	pm2 logs 线程名 。  查看线程日志  例如：pm2 logs koa
-2）	pm2 list 。 查看pm2所有应用
-3）	pm2 stop 0 。 关闭id为0的应用
-4）	pm2 delete 0 。 删除id为0的应用
-5）	pm2 restart all 。 重启所有应用
+#### 7、	pm2进程守护工具常用命令     
+1）	pm2 logs 线程名 。  查看线程日志  例如：pm2 logs koa  
+2）	pm2 list 。 查看pm2所有应用  
+3）	pm2 stop 0 。 关闭id为0的应用  
+4）	pm2 delete 0 。 删除id为0的应用  
+5）	pm2 restart all 。 重启所有应用  
 
 ### API接口
 #### 1、发送到群
@@ -79,20 +79,13 @@ http://localhost:15999/api/pushMessage?message=发送到群的文字输入在此
 	请求示例：
 http://localhost:15999/api/pushInfo?message=发送给好友的文字输入在此处
 
-#### 更多问题
-
-关于`wechaty`的相关接口，请
-[参考wechaty官网文档](https://wechaty.js.org/v/zh/)，如果以上还没有解决你的问题，请先往`wechaty`的项目[issues](https://github.com/Chatie/wechaty/issues)中查找是否存在相同的问题，由于本项目是依赖`wechaty`开发，所以启动时遇到的问题大部分是`wechaty`的。
-
-事实上, 如果需要一些其他自定义功能, 也可以很方便的在项目里修改哦！
-
 ### 较**wechat-assistant-padplus**进行的改动
   由于本人是一名后端开发，web协议的wechaty本来有Java语言的版本，但是由于网页版微信限制(详见[issues](https://github.com/wechaty/wechaty/issues/603))。所以找到了另外一种协议 -- IPAD协议。问题又来了，没有对应的版本，所以找到了**wechat-assistant-padplus**项目并进行了部分改动。  
   1、 注释了 **wechat-assistant-padplus** 中定时任务的相关业务逻辑。  
   2、 将KOA与wechaty整合到了一个项目(因为需要在koa暴露的Web API接口中调用wechaty的初始化属性)  
   3、 去除了MongoDB与天气接口
 
-#### 更多问题
+### 更多问题
 关于`wechaty`的相关接口，请
 [参考wechaty官网文档](https://wechaty.js.org/v/zh/)，如果以上还没有解决你的问题，请先往`wechaty`的项目[issues](https://github.com/Chatie/wechaty/issues)中查找是否存在相同的问题，由于本项目是依赖`wechaty`开发，所以启动时遇到的问题大部分是`wechaty`的。
 

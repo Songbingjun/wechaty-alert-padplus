@@ -1,7 +1,7 @@
 {
-  "name": "wechat-assistant",
-  "version": "2.1.5",
-  "description": "微信小助手2.0",
+  "name": "wechat-alert-assistant",
+  "version": "1.0.2",
+  "description": "预警信息肖助手",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development ./node_modules/.bin/nodemon bin/www",

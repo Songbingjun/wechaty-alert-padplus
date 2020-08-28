@@ -10,9 +10,9 @@
 # wechaty-alert-padplus
 ## 微信机器人 - 实时发送预警信息 ##
 ### 使用须知
-1、 本项目基于微信IPAD协议，避免了网页版微信登陆不成功的情况
-2、 **本项目必须要申请token**，具体操作流程请参考[教程](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty#1Token-%E7%9A%84%E5%8A%9F%E8%83%BD%E5%92%8C%E7%94%B3%E8%AF%B7)
-3、 本项目延伸自 **wechat-assistant-padplus** ，因为官方版本当前只有TypeScript，目前为JavaScript语言。
+1、 本项目基于微信IPAD协议，避免了网页版微信登陆不成功的情况  
+2、 **本项目必须要申请token**，具体操作流程请参考[教程](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty#1Token-%E7%9A%84%E5%8A%9F%E8%83%BD%E5%92%8C%E7%94%B3%E8%AF%B7)  
+3、 本项目延伸自 **wechat-assistant-padplus** ，因为官方版本当前只有TypeScript，目前为JavaScript语言。  
 
 ### 初衷
   服务器上的预警信息天天都要有人一直监控着！好烦啊！能不能找一个机器人让我们能实时看到消息啊！
@@ -80,7 +80,7 @@ http://localhost:15999/api/pushMessage?message=发送到群的文字输入在此
 http://localhost:15999/api/pushInfo?message=发送给好友的文字输入在此处
 
 ### 较**wechat-assistant-padplus**进行的改动
-  由于本人是一名后端开发，web协议的wechaty本来有Java语言的版本，但是由于网页版微信限制(详见[issues](https://github.com/wechaty/wechaty/issues/603))。所以找到了另外一种协议 -- IPAD协议。问题又来了，没有对应的版本，所以找到了**wechat-assistant-padplus**项目并进行了部分改动。  
+  由于本人是一名后端开发，web协议的wechaty本来有Java语言的版本，但是由于网页版微信限制(详见[issues](https://github.com/wechaty/wechaty/issues/603))。所以找到了另外一种协议 -- IPAD协议。问题又来了，没有对应语言的版本，所以找到了**wechat-assistant-padplus**项目，项目主要以JS为主，对其做了以上变动。  
   1、 注释了 **wechat-assistant-padplus** 中定时任务的相关业务逻辑。  
   2、 将KOA与wechaty整合到了一个项目(因为需要在koa暴露的Web API接口中调用wechaty的初始化属性)  
   3、 去除了MongoDB与天气接口
